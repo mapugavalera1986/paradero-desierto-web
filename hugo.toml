@@ -1,0 +1,39 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-pe'
+title = 'Paradero desierto'
+theme = 'hello-friend-ng'
+
+paginate = 5
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+[params]
+
+    # Textos adicionales
+    homeSubtitle = "Poesía peruana"
+
+    # Configuración adicional
+    customCSS = ["/css/xtras.css"]
+
+    # Elementos para metadatos    
+    description = "Paradero desierto. Poesía peruana"
+    keywords = ""
+    images = ["images/xtras/Paisaje lluvia.jpg"]
+
+    # Fotos para portada
+    [params.portrait]
+        path = "/images/xtras/Paisaje lluvia.jpg"
+        alt = "Paisaje de calle limeña en plena garúa"
+        maxWidth = "200px"
+    
+    # Para cuando necesites al autor
+    [params.author]
+        name = "Paradero desierto"
+
+    # Necesitas poner un pie de página agradable
+    [params.footer]
+        bottomText = ["Gracias por su preferencia"]

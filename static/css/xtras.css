@@ -1,0 +1,4 @@
+/* Estilización del título*/
+main h1{
+    text-transform: lowercase;
+}
