@@ -24,16 +24,37 @@ publishDir   = "public"
     keywords = ""
     images = ["images/xtras/Paisaje lluvia.jpg"]
 
+    # Configuración de favicon
+    [params.favicon.color]
+        mask = "#1b1c1d"
+        msapplication = "#1b1c1d"
+        theme = "#1b1c1d"
+
     # Fotos para portada
     [params.portrait]
         path = "/images/xtras/Paisaje lluvia.jpg"
         alt = "Paisaje de calle limeña en plena garúa"
-        maxWidth = "200px"
+        maxWidth = "160px"
     
+    # Siempre fíjate en los iconos sociales
+    [[params.social]]
+        name = "facebook"
+        url = "http://facebook.com/paraderodesierto"
+
+    [[params.social]]
+        name = "instagram"
+        url = "https://www.instagram.com/paradero.desierto/"
+
+    [[params.social]]
+        name = "email"
+        url = "mailto:nosotros@paraderodesierto.com"
+
+    # Logotipo
+    [params.logo]
+        logoMark = ">"
+        logoText = "cd /paradero-desierto"
+        logoCursorDisabled = true
+
     # Para cuando necesites al autor
     [params.author]
         name = "Paradero desierto"
-
-    # Necesitas poner un pie de página agradable
-    [params.footer]
-        bottomText = ["Gracias por su preferencia"]
