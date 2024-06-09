@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'es-pe'
+languageCode = 'es-PE'
 title = 'Paradero desierto'
 theme = 'hello-friend-ng'
 
@@ -10,6 +10,22 @@ contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
+
+[permalinks]
+    posts = "/posts/:year/:month/:slug/"
+
+[menu]
+  [[menu.main]]
+    identifier = "nosotros"
+    name       = "Sobre nosotros"
+    url        = "nosotros/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "publicaciones"
+    name       = "Publicaciones"
+    url        = "publicaciones/"
+    weight = 2
 
 [params]
 
@@ -23,6 +39,10 @@ publishDir   = "public"
     description = "Paradero desierto. Poesía peruana"
     keywords = ""
     images = ["images/xtras/Paisaje lluvia.jpg"]
+
+    # Autor, para metadatos
+    [params.author]
+        name = "Paradero desierto"
 
     # Configuración de favicon
     [params.favicon.color]
@@ -54,7 +74,3 @@ publishDir   = "public"
         logoMark = ">"
         logoText = "cd /paradero-desierto"
         logoCursorDisabled = true
-
-    # Para cuando necesites al autor
-    [params.author]
-        name = "Paradero desierto"

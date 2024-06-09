@@ -1,0 +1,105 @@
+{
+    "nombre": "Publicaciones",
+    "publicaciones": [
+        {
+            "nombre": "Paradero desierto. Segunda llamada",
+            "foto": "images/publicaciones/Libro Segunda llamada.jpg",
+            "enlace": "",
+            "origen": "Lima, 2024",
+            "info": [
+                {
+                    "txt": "Villanueva Lorenzo"
+                },
+                {
+                    "txt": "Muki Sabogal"
+                },
+                {
+                    "txt": "Miguel Gil Castro"
+                },
+                {
+                    "txt": "Gloria Alvitres"
+                },
+                {
+                    "txt": "Giovanna Torres"
+                },
+                {
+                    "txt": "Dagoberto Benites"
+                },
+                {
+                    "txt": "Alhelí Málaga"
+                }
+            ]
+        },
+        {
+            "nombre": "Lectura abierta 02",
+            "foto": "",
+            "enlace": "",
+            "origen": "10 de diciembre del 2023",
+            "info": [
+                {
+                    "txt": "Guía de lectura con 32 textos creados por 27 autores."
+                },
+                {
+                    "txt": "Los textos fueron seleccionados por Gloria Alvitres, Ivonne Bernuy, Miguel Gil Castro, Villanueva Lorenzo, Alhelí Málaga, Muki Sabogal y Giovanna Torres."
+                }
+            ]
+        },
+        {
+            "nombre": "Lectura abierta 01",
+            "foto": "",
+            "enlace": "",
+            "origen": "7 de mayo del 2023",
+            "info": [
+                {
+                    "txt": "Guía de lectura con 44 poemas de 29 autores. Los textos fueron seleccionados por Giovanna Torres, Miguel Gil Castro, Ivonne Bernuy, Gabriel Espinoza, Dagoberto Benites, Alhelí Málaga y Villanueva Lorenzo."
+                }
+            ]
+        },
+        {
+            "nombre": "Paradero desierto. Vol. I",
+            "foto": "images/publicaciones/Libro Vol I.jpg",
+            "enlace": "",
+            "origen": "Lima, 2022",
+            "info": [
+                {
+                    "txt": "Alhelí Málaga"
+                },
+                {
+                    "txt": "Dagoberto Benites"
+                },
+                {
+                    "txt": "Giovanna Torres"
+                },
+                {
+                    "txt": "Miguel Gil Castro"
+                },
+                {
+                    "txt": "Villanueva Lorenzo"
+                }
+            ]
+        },
+        {
+            "nombre": "Cinco días en Huarochirí",
+            "foto": "images/publicaciones/Libro Cinco días.jpg",
+            "enlace": "",
+            "origen": "Lima, 2022",
+            "info": [
+                {
+                    "txt": "Miguel Gil Castro"
+                },
+                {
+                    "txt": "Ediciones Copé: Lima, 2022"
+                }
+            ]
+        },
+        {
+            "nombre": "Érase un espejo",
+            "foto": "images/publicaciones/Libro Érase un espejo.jpg",
+            "enlace": "",
+            "origen": "Kraków-Lima, 2022",
+            "info": [{
+                "txt": "Alhelí Málaga"
+            }]
+        }
+    ]
+}

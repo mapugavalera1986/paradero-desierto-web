@@ -1,0 +1,29 @@
+{{ $elementos := "page.Params.Elementos" }}
+{{ with site.Data.publicaciones }}
+    <div class = "elementos">
+        {{ range .publicaciones }}
+        <div class = "elemento-segmento">
+            <div class = "libro-info">
+                <div class = "elemento-encabezado">
+                    <h2>{{ .nombre }}</h2>
+                    <p>{{ .origen }}</p>
+                </div>
+                <div>
+                    {{ range .info }}
+                        <p>{{ .txt }}</p>
+                    {{ end }}
+                </div>
+                <div>
+                    <a href="">Enlace</a>
+                </div>
+            </div>
+            {{ if .foto }}
+            <div class="elemento-foto">
+                <img src="{{ .foto | absURL }}" alt="Fotografía de {{ .nombre }}">
+            </div>
+            {{ end}}
+        </div>
+        <hr />
+        {{ end }}
+    </div>
+{{ end }}

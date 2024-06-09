@@ -2,3 +2,46 @@
 main h1{
     text-transform: lowercase;
 }
+
+.elementos {
+    display: inline;
+}
+
+.elemento-segmento {
+    margin-bottom: 16px;
+    margin-top: 16px ;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+}
+
+.elemento-info {
+    background-color: yellow;
+    display: flex;
+    margin-right: 2%;
+    width: 68%;
+    flex: 1;
+}
+
+.elemento-encabezado h2{
+    margin-top: 0;
+}
+
+.elemento-encabezado p{
+    font-size: 80%;
+    margin-top: -16px;
+}
+
+.elemento-foto {
+    right: 0;
+    width: 160px;
+    height: 160px;
+}
+
+.elemento-foto img {
+    height: 100%;
+    width: 100%;
+    border-radius: 25%;
+    object-fit: cover;
+}
+

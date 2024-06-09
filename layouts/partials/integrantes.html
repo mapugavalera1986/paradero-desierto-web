@@ -1,0 +1,22 @@
+{{ $elementos := "page.Params.Elementos" }}
+{{ with site.Data.integrantes }}
+    <div class = "elementos">
+        {{ range .integrantes }}
+        <div class = "elemento-segmento">
+            <div class = "elemento-info">
+                <div class = "elemento-encabezado">
+                    <h2>{{ .nombre }}</h2>
+                    <p>{{ .origen }}</p>
+                </div>
+                {{ range .info }}
+                    <p>{{ .txt | markdownify }}</p>
+                {{ end }}
+            </div>
+            <div class="elemento-foto">
+                <img src="{{ .foto | absURL }}" alt="Fotografía de {{ .nombre }}">
+            </div>
+        </div>
+        <hr />
+        {{ end }}
+    </div>
+{{ end }}

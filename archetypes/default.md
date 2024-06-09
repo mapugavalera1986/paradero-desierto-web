@@ -1,5 +1,7 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
-draft = true
+author = '{{ site.Params.Author.Name}}'
+description = ''
+slug = '{{ .File.ContentBaseName }}'
 +++

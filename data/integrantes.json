@@ -1,0 +1,58 @@
+{
+    "nombre": "Nosotros",
+    "integrantes": [
+        {
+            "nombre": "Giovanna Torres",
+            "foto": "images/integrantes/Giovanna Torres 2024.jpg",
+            "origen": "Lima, 1991",
+            "info": [
+                {
+                    "txt": "Llegó al mundo en manos de su abuela. Hace ejercicio, come sano, duerme temprano. Le gusta la cursilería, mirar pájaros y cocinar de vez en cuando. Poemas suyos aparecieron en el blog *[Fundador de supernovas](https://luiscruzalvarez.blogspot.com/2019/08/muestra-del-taller-de-escritura-poetica.html)* y en el compilado *[La punta del iceberg](https://cultura.petroperu.com.pe/noticia/libro-la-punta-del-iceberg-muestra-de-poemas-del-taller-de-poesia-un-iceberg-llamado-poesia-dictado-por-el-escritor-oscar-limache/)*."
+                }
+            ]
+        },
+        {
+            "nombre": "Jorge Villanueva Lorenzo",
+            "foto": "images/integrantes/Jorge Villanueva 2022.jpg",
+            "origen": "Lima, 1989",
+            "info": [
+                {
+                    "txt": "Egresado de sociología, técnico en línea blanca con interés en la economía circular y RAEE (residuos eléctricos y electrónicos). Comparte su poesía en el fanpage [Caso Raída](https://www.facebook.com/Caso-Raida-188978577909966). Tenor en el Coro de la Universidad Nacional de San Marcos. Interés en el ámbito musical."
+                }
+            ]
+        },
+        {
+            "nombre": "Dagoberto Benites",
+            "foto": "images/integrantes/Dagoberto Benites 2024.png",
+            "origen": "(ima, 1983",
+            "info": [
+                {
+                    "txt": "Desde el 2009 la poesía se convirtió en su voz, movimiento y canto, tras verse obligado a autoexiliarse del mundo debido al párkinson. Abandonó la carrera de educación en la UNMSM. Sin embargo continuó desde casa cultivando su pasión por la literatura. Participó en la antología Todas las voces (Editorial Vicio perpetuo, 2013) y en la revista literaria *Sol y niebla* N° 6. Algunos poemas suyos aparecen en lamula.pe."
+                }
+            ]
+        },
+        {
+            "nombre": "Miguel Gil Castro",
+            "foto": "images/integrantes/Miguel Gil Castro 2024(1).jpg",
+            "origen": "Lima, 1987",
+            "info": [
+                {
+                    "txt": "Antropólogo. Sus poemas han aparecido en *Últimas Letras*, podcast literario de Última Instancia; *Hiedra*, *Revista electrónica de Literatura*; *Líneas sobre la arena* (Ed. Error de Imprenta)."
+                },
+                {
+                    "txt": "Ha publicado el libro *[Cinco días en Huarochirí](https://cultura.petroperu.com.pe/noticia/obras-ganadoras-del-premio-cope-2022-se-presentaron-en-la-feria-internacional-del-libro-de-lima/)* (Ediciones Copé - Petroperú, 2022)."
+                }
+            ]
+        },
+        {
+            "nombre": "Alhelí Málaga",
+            "foto": "images/integrantes/Alheli Malaga 2024.jpg",
+            "origen": "Lima, 1988",
+            "info": [
+                {
+                    "txt": "Poemas suyos aparecieron en las plataformas *[Kametsa](https://revistakametsa.wordpress.com/2022/07/22/poesia-internacional-alheli-malaga-peru/)*, *[Helikopter](https://opt-art.net/helikopter/10-2022/alheli-malaga-trzy-wiersze/)*, *[Tinta Digital](https://tintadigitalxs.wordpress.com/2023/11/20/3-poemas-de-alheli-malaga/)* y *[Tlen Literacki](https://tlenliteracki.pl/alheli-malaga-trzy-wiersze/)*, así como en *[Fundador de supernovas](https://luiscruzalvarez.blogspot.com/2019/08/muestra-del-taller-de-escritura-poetica.html)*. Ha publicado el conjunto *[Érase un espejo](https://jimdo-storage.global.ssl.fastly.net/file/e178eb9a-f894-4129-ae11-a44802774cf2/REG.%20%C3%89rase%20un%20espejo.%20Alhel%C3%AD%20M%C3%A1laga..pdf)* (2022). Traducciones suyas aparecieron en la plataforma *[Vallejo & Company](https://www.vallejoandcompany.com/5-poetas-polacos/)* así como en la revista *Lucerna*. Comparte lecturas y traducciones en su blog *[Amaré al aire](https://amarealaire.blogspot.com/)*."
+                }
+            ]
+        }
+    ]
+}
