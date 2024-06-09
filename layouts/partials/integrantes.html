@@ -1,4 +1,3 @@
-{{ $elementos := "page.Params.Elementos" }}
 {{ with site.Data.integrantes }}
     <div class = "elementos">
         {{ range .integrantes }}
@@ -8,9 +7,11 @@
                     <h2>{{ .nombre }}</h2>
                     <p>{{ .origen }}</p>
                 </div>
+                <div class="elemento-texto">
                 {{ range .info }}
                     <p>{{ .txt | markdownify }}</p>
                 {{ end }}
+                </div>
             </div>
             <div class="elemento-foto">
                 <img src="{{ .foto | absURL }}" alt="Fotografía de {{ .nombre }}">
