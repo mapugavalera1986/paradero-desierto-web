@@ -1,27 +1,28 @@
-{{ $elementos := "page.Params.Elementos" }}
 {{ with site.Data.publicaciones }}
     <div class = "elementos">
         {{ range .publicaciones }}
-        <div class = "elemento-segmento">
-            <div class = "libro-info">
-                <div class = "elemento-encabezado">
+        <div class = "libro-segmento">
+            <div class="libro-foto">
+            {{ if .foto }}
+                <img src = "{{ .foto | absURL }}" alt="Fotografía del volumen impreso de {{ .nombre }}">
+            {{ else }}
+                <img src = "/images/xtras/Paisaje lluvia.jpg" alt = "Fotografía de garúa limeña para compensar la ausencia de portada">
+            {{ end }}
+            </div>
+            <div class="libro-info">
+                <div class="libro-encabezado">
                     <h2>{{ .nombre }}</h2>
                     <p>{{ .origen }}</p>
                 </div>
-                <div>
+                <div class="libro-cuerpo">
                     {{ range .info }}
-                        <p>{{ .txt }}</p>
+                    <p>{{ .txt }}</p>
                     {{ end }}
                 </div>
-                <div>
-                    <a href="">Enlace</a>
+                <div class="libro-enlace">
+                    <a href="">Clic aquí para leerlo completo</a>
                 </div>
             </div>
-            {{ if .foto }}
-            <div class="elemento-foto">
-                <img src="{{ .foto | absURL }}" alt="Fotografía de {{ .nombre }}">
-            </div>
-            {{ end}}
         </div>
         <hr />
         {{ end }}

@@ -27,6 +27,13 @@ publishDir   = "public"
     url        = "publicaciones/"
     weight = 2
 
+  [[menu.main]]
+    identifier = "posts "
+    name       = "Blog"
+    url        = "posts/"
+    weight = 3
+
+
 [params]
 
     # Textos adicionales

@@ -1,9 +1,12 @@
 {{ define "main" }}    
     <main class="posts">
         <h1>{{ .Title }}</h1>
-        {{ if .Content }}
-            <div class="content">{{ .Content }}</div>
+        {{ if .Description }}
+            <div class="content blog">{{ .Description }}</div>
+        {{ else }}
+            <div class="content blog">{{ .Content }}</div>
         {{ end }}
+            <hr />
             {{ partial "publicaciones.html" . }}
     </main>
 {{ end }}
