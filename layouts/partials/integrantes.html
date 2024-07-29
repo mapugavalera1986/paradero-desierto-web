@@ -1,23 +1,24 @@
-{{ with site.Data.integrantes }}
-    <div class = "elementos">
-        {{ range .integrantes }}
-        <div class = "elemento-segmento">
-            <div class = "elemento-info">
-                <div class = "elemento-encabezado">
+{{ with site.Data.nosotros }}
+    {{ $cantidad := sub (len site.Data.nosotros.integrantes) 1 }}
+    {{ range $index, $element := .integrantes}}
+        <div class="tarjeta">
+            <div class="foto">
+                <img src="{{ .foto | absURL }}" alt="Fotografía de {{ .nombre }}">
+            </div>
+            <div class="info">
+                <div class="titular">
                     <h2>{{ .nombre }}</h2>
                     <p>{{ .origen }}</p>
                 </div>
-                <div class="elemento-texto">
-                {{ range .info }}
-                    <p>{{ .txt | markdownify }}</p>
-                {{ end }}
+                <div class="texto">
+                    {{ range .info }}
+                        <p>{{ .txt | markdownify }}</p>
+                    {{ end }}
                 </div>
             </div>
-            <div class="elemento-foto">
-                <img src="{{ .foto | absURL }}" alt="Fotografía de {{ .nombre }}">
-            </div>
         </div>
-        <hr />
+        {{ if not (eq $cantidad $index) }}
+            <hr>
         {{ end }}
-    </div>
+    {{ end }}
 {{ end }}

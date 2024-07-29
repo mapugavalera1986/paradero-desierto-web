@@ -1,83 +1,54 @@
-baseURL = 'https://paradero-incierto.netlify.app/'
-languageCode = 'es-PE'
+baseURL = 'https://example.org/'
+languageCode = 'es-pe'
 title = 'Paradero desierto'
-theme = 'hello-friend-ng'
+theme = 'hermit-v2'
 
-paginate = 5
+defaultContentLanguageInSubdir = false
 
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
+# En caso de que quieran una sección para copyright
+copyright = 'Paradero desierto'
 
-[permalinks]
-    posts = "/posts/:year/:month/:slug/"
+# Siguiendo la disposición de la plantilla, solo usaremos etiquetas
+[taxonomies]
+	tag = 'tags'
 
-[menu]
-  [[menu.main]]
-    identifier = "nosotros"
-    name       = "Sobre nosotros"
-    url        = "nosotros/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "publicaciones"
-    name       = "Publicaciones"
-    url        = "publicaciones/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "posts "
-    name       = "Blog"
-    url        = "posts/"
-    weight = 3
-
+[params.author]
+	author = 'Especial'
+	about = 'nosotros'
 
 [params]
+	dateform        = "Jan 2, 2006"
+	dateformShort   = "Jan 2"
+	dateformNum     = "2006-01-02"
+	dateformNumTime = "2006-01-02 15:04 -0700"
 
-    # Textos adicionales
-    homeSubtitle = "Poesía peruana"
+	readTime = false
+	
+	# Detalles para SEO y para página de inicio
+	description = 'Poesía peruana'
+	homeSubtitle = 'Poesía peruana'
+	
+	homeSubtitlePrinter = false
+	scrollToTop = true 
+	footerCopyright = 'Preguntar antes de copiar'
+	
+	# Revisa si los vínculos sociales funcionan
+	[[params.socialLinks]]
+		name = 'instagram'
+		url = 'https://www.instagram.com/paradero.desierto/'
+	[[params.socialLinks]]
+		name = 'facebook'
+		url = 'https://www.facebook.com/paraderodesierto/'
+	[[params.socialLinks]]
+		name = 'email'
+		url = 'mailto:nosotros@paraderodesierto.com'
 
-    # Configuración adicional
-    customCSS = ["/css/xtras.css"]
-
-    # Elementos para metadatos    
-    description = "Paradero desierto. Poesía peruana"
-    keywords = ""
-    images = ["images/xtras/Paisaje lluvia.jpg"]
-
-    # Autor, para metadatos
-    [params.author]
-        name = "Paradero desierto"
-
-    # Configuración de favicon
-    [params.favicon.color]
-        mask = "#1b1c1d"
-        msapplication = "#1b1c1d"
-        theme = "#1b1c1d"
-
-    # Fotos para portada
-    [params.portrait]
-        path = "/images/xtras/Paisaje lluvia.jpg"
-        alt = "Paisaje de calle limeña en plena garúa"
-        maxWidth = "160px"
-    
-    # Siempre fíjate en los iconos sociales
-    [[params.social]]
-        name = "facebook"
-        url = "http://facebook.com/paraderodesierto"
-
-    [[params.social]]
-        name = "instagram"
-        url = "https://www.instagram.com/paradero.desierto/"
-
-    [[params.social]]
-        name = "email"
-        url = "mailto:nosotros@paraderodesierto.com"
-
-    # Logotipo
-    [params.logo]
-        logoMark = ">"
-        logoText = "cd /paradero-desierto"
-        logoCursorDisabled = true
+[menu]
+	[[menu.main]]
+		name = 'Nosotros'
+		url = 'nosotros/'
+		weight = 1
+	[[menu.main]]
+		name = 'Publicaciones'
+		url = 'publicaciones/'
+		weight = 2

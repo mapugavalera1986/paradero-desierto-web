@@ -1,0 +1,60 @@
+.tarjeta {
+    background-color: rgba(117, 80, 123, 0.25);
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.foto {
+    height: auto;
+    width: 200px;
+    flex-shrink: 0;
+    margin-right: 16px;
+    order: 0;
+}
+
+.foto-libro {
+    height: auto;
+    width: 256px;
+    flex-shrink: 0;
+    margin-right: 16px;
+    order: 0;
+}
+
+.foto img, .foto-libro img {
+    height: 100%;
+    width: 100%;
+    border-radius: 0;
+    object-fit: cover;
+}
+
+.info {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    order: 1;
+}
+
+.titular {
+    order: 0;
+    align-self:first baseline;
+}
+
+.titular h2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.titular p{
+    margin-bottom: 24px;
+    font-size: 80%;
+}
+
+.texto {
+    order: 1;
+    flex-grow: 1;
+}
+
+.enlace {
+    order: 2;
+    margin-top: 24px;
+}

@@ -1,30 +1,29 @@
 {{ with site.Data.publicaciones }}
-    <div class = "elementos">
-        {{ range .publicaciones }}
-        <div class = "libro-segmento">
-            <div class="libro-foto">
+    {{ $cantidad := sub (len site.Data.publicaciones.textos) 1 }}
+    {{ range $index, $element := .textos}}
+        <div class="tarjeta">
             {{ if .foto }}
-                <img src = "{{ .foto | absURL }}" alt="Fotografía del volumen impreso de {{ .nombre }}">
-            {{ else }}
-                <img src = "/images/xtras/Paisaje lluvia.jpg" alt = "Fotografía de garúa limeña para compensar la ausencia de portada">
+                <div class="foto-libro">
+                    <img src="{{ .foto | absURL }}" alt="Fotografía de {{ .nombre }}">
+                </div>
             {{ end }}
-            </div>
-            <div class="libro-info">
-                <div class="libro-encabezado">
+            <div class="info">
+                <div class="titular">
                     <h2>{{ .nombre }}</h2>
                     <p>{{ .origen }}</p>
                 </div>
-                <div class="libro-cuerpo">
+                <div class="texto">
                     {{ range .info }}
-                    <p>{{ .txt }}</p>
+                        <p>{{ .txt | markdownify }}</p>
                     {{ end }}
                 </div>
-                <div class="libro-enlace">
-                    <a href="">Clic aquí para leerlo completo</a>
+                <div class="enlace">
+                    <a href="">Leer el texto aquí</a>
                 </div>
             </div>
         </div>
-        <hr />
+        {{ if not (eq $cantidad $index) }}
+            <hr>
         {{ end }}
-    </div>
+    {{ end }}
 {{ end }}
