@@ -58,3 +58,25 @@
     order: 2;
     margin-top: 24px;
 }
+
+@media (max-width: 768px) {
+    .tarjeta {
+        flex-direction: column;
+        align-items: left;
+        text-align: left;
+    }
+
+    .foto, .foto-libro {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+
+    .info {
+        align-items: left;
+    }
+
+    .titular p {
+        font-size: 100%;
+    }
+}
