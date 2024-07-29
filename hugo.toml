@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://paradero-incierto.netlify.app/'
 languageCode = 'es-pe'
 title = 'Paradero desierto'
 theme = 'hermit-v2'
