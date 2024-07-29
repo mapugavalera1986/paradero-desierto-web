@@ -67,9 +67,17 @@
     }
 
     .foto, .foto-libro {
-        width: 100%;
+        height: 160px;
+        width: 60%;
         margin-right: 0;
         margin-bottom: 16px;
+    }
+
+    .foto-libro img {
+        height: 100%;
+        width: 100%;
+        border-radius: 0;
+        object-fit:cover;
     }
 
     .info {
