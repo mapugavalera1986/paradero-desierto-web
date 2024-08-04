@@ -46,7 +46,7 @@ copyright = 'Paradero desierto'
 		url = 'https://www.facebook.com/paraderodesierto/'
 	[[params.socialLinks]]
 		name = 'email'
-		url = 'mailto:nosotros@paraderodesierto.com'
+		url = 'mailto:paraderodesierto@proton.me'
 
 [menu]
 	[[menu.main]]

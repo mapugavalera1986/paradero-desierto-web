@@ -4,7 +4,7 @@
         {
             "nombre": "Paradero desierto. Segunda llamada",
             "foto": "images/publicaciones/Libro Segunda llamada.jpg",
-            "enlace": "",
+            "enlace": "pdf/Paradero desierto. Segunda llamada. VF.pdf",
             "origen": "Lima, 2024",
             "info": [
                 {
@@ -33,7 +33,7 @@
         {
             "nombre": "Lectura abierta 02",
             "foto": "",
-            "enlace": "",
+            "enlace": "pdf/LecturaAbierta 02 XD.pdf",
             "origen": "10 de diciembre del 2023",
             "info": [
                 {
@@ -47,7 +47,7 @@
         {
             "nombre": "Lectura abierta 01",
             "foto": "",
-            "enlace": "",
+            "enlace": "pdf/ED LecturaAbierta VF.pdf",
             "origen": "7 de mayo del 2023",
             "info": [
                 {
@@ -58,7 +58,7 @@
         {
             "nombre": "Paradero desierto. Vol. I",
             "foto": "images/publicaciones/Libro Vol I.jpg",
-            "enlace": "",
+            "enlace": "pdf/Paradero desierto. Vol. I.pdf",
             "origen": "Lima, 2022",
             "info": [
                 {
@@ -81,7 +81,7 @@
         {
             "nombre": "Cinco días en Huarochirí",
             "foto": "images/publicaciones/Libro Cinco días.jpg",
-            "enlace": "",
+            "enlace": "https://cultura.petroperu.com.pe/biblioteca-cope/cinco-dias-en-huarochiri/",
             "origen": "Lima, 2022",
             "info": [
                 {
@@ -95,7 +95,7 @@
         {
             "nombre": "Érase un espejo",
             "foto": "images/publicaciones/Libro Érase un espejo.jpg",
-            "enlace": "",
+            "enlace": "pdf/REG. Érase un espejo. Alhelí Málaga..pdf",
             "origen": "Kraków-Lima, 2022",
             "info": [{
                 "txt": "Alhelí Málaga"
