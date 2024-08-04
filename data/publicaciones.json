@@ -3,7 +3,7 @@
     "textos": [
         {
             "nombre": "Paradero desierto. Segunda llamada",
-            "foto": "images/0 publicaciones/Libro Segunda llamada.jpg",
+            "foto": "images/0 publicacionesb/SegundaLlamada.png",
             "enlace": "pdf/Paradero desierto. Segunda llamada. VF.pdf",
             "origen": "Lima, 2024",
             "info": [
@@ -32,7 +32,7 @@
         },
         {
             "nombre": "Lectura abierta 02",
-            "foto": "",
+            "foto": "images/0 publicacionesb/LecturaAbierta2.jpeg",
             "enlace": "pdf/LecturaAbierta 02 XD.pdf",
             "origen": "10 de diciembre del 2023",
             "info": [
@@ -46,7 +46,7 @@
         },
         {
             "nombre": "Lectura abierta 01",
-            "foto": "",
+            "foto": "images/0 publicacionesb/LecturaAbierta1.png",
             "enlace": "pdf/ED LecturaAbierta VF.pdf",
             "origen": "7 de mayo del 2023",
             "info": [
@@ -57,7 +57,7 @@
         },
         {
             "nombre": "Paradero desierto. Vol. I",
-            "foto": "images/0 publicaciones/Libro Vol I.jpg",
+            "foto": "images/0 publicacionesb/Volumen1.png",
             "enlace": "pdf/Paradero desierto. Vol. I.pdf",
             "origen": "Lima, 2022",
             "info": [
@@ -80,7 +80,7 @@
         },
         {
             "nombre": "Cinco días en Huarochirí",
-            "foto": "images/0 publicaciones/Libro Cinco días.jpg",
+            "foto": "images/0 publicacionesb/GilCastroCinco.png",
             "enlace": "https://cultura.petroperu.com.pe/biblioteca-cope/cinco-dias-en-huarochiri/",
             "origen": "Lima, 2022",
             "info": [
@@ -94,7 +94,7 @@
         },
         {
             "nombre": "Érase un espejo",
-            "foto": "images/0 publicaciones/Libro Érase un espejo.jpg",
+            "foto": "images/0 publicacionesb/EspejoAlhel.png",
             "enlace": "pdf/REG. Érase un espejo. Alhelí Málaga..pdf",
             "origen": "Kraków-Lima, 2022",
             "info": [{

@@ -6,7 +6,7 @@ theme = 'hermit-v2'
 defaultContentLanguageInSubdir = false
 
 # En caso de que quieran una sección para copyright
-copyright = 'Paradero desierto'
+copyright = 'paradero desierto'
 
 # Con esto, podrás tener enlaces ordenados por fecha y mes
 
@@ -18,20 +18,20 @@ copyright = 'Paradero desierto'
 	tag = 'tags'
 
 [params.author]
-	author = 'Especial'
+	author = 'paradero desierto'
 	about = 'nosotros'
 
 [params]
-  dateform        = "02/01/2006"
-  dateformShort   = "02/01"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+	dateform        = "02/01/2006"
+	dateformShort   = "02/01"
+	dateformNum     = "2006-01-02"
+	dateformNumTime = "2006-01-02 15:04 -0700"
 
 	readTime = false
 	
 	# Detalles para SEO y para página de inicio
-	description = 'Poesía peruana'
-	homeSubtitle = 'Poesía peruana'
+	description = 'poesía peruana'
+	homeSubtitle = 'poesía peruana'
 	
 	homeSubtitlePrinter = false
 	scrollToTop = true 
@@ -58,6 +58,10 @@ copyright = 'Paradero desierto'
 		url = 'publicaciones/'
 		weight = 2
 	[[menu.main]]
-		name = 'Blog y eventos'
-		url = 'posts/'
+		name = 'Blog'
+		url = 'blog/'
 		weight = 3
+	[[menu.main]]
+		name = 'Agenda'
+		url = 'agenda/'
+		weight = 4
