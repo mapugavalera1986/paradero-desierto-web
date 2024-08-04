@@ -1,5 +1,4 @@
 .tarjeta {
-    background-color: rgba(117, 80, 123, 0.25);
     display: flex;
     flex-wrap: nowrap;
 }

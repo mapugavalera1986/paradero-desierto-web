@@ -1,12 +1,17 @@
 baseURL = 'https://paradero-incierto.netlify.app/'
 languageCode = 'es-pe'
-title = 'Paradero desierto'
+title = 'paradero desierto'
 theme = 'hermit-v2'
 
 defaultContentLanguageInSubdir = false
 
 # En caso de que quieran una sección para copyright
 copyright = 'Paradero desierto'
+
+# Con esto, podrás tener enlaces ordenados por fecha y mes
+
+[permalinks]
+    posts = "/:year/:month/:day/:slug/"
 
 # Siguiendo la disposición de la plantilla, solo usaremos etiquetas
 [taxonomies]
@@ -17,10 +22,10 @@ copyright = 'Paradero desierto'
 	about = 'nosotros'
 
 [params]
-	dateform        = "Jan 2, 2006"
-	dateformShort   = "Jan 2"
-	dateformNum     = "2006-01-02"
-	dateformNumTime = "2006-01-02 15:04 -0700"
+  dateform        = "02/01/2006"
+  dateformShort   = "02/01"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
 	readTime = false
 	
@@ -52,3 +57,7 @@ copyright = 'Paradero desierto'
 		name = 'Publicaciones'
 		url = 'publicaciones/'
 		weight = 2
+	[[menu.main]]
+		name = 'Blog y eventos'
+		url = 'posts/'
+		weight = 3
