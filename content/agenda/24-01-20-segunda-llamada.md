@@ -5,6 +5,7 @@ author = 'El colectivo'
 date = 2024-01-20
 tags = ['Anuncios','Eventos','Poemarios']
 slug = 'segunda-llamada'
+custom_css = ["custom_css/fotogallery.css"]
 +++
 
 El 17 de enero del 2024 presentamos "Paradero Desierto. Segunda llamada" en la Casa de la Literatura Peruana. Queremos agradecer a quienes vinieron a escucharnos; a quienes llegaron puntuales; a quienes llegaron tarde, pero llegaron; a quienes se quedaron al brindis; a quienes vinieron el 2022 para la presentación del "Paradero Desierto. Vol. I" y ahora volvieron, a quienes adquirieron ejemplares. En fin, gracias por acompañarnos ese día.
@@ -19,4 +20,17 @@ Escríbenos si deseas tener un ejemplar de nuestro compilado en papel - todavía
 
 Agradecemos a Katherine Yábar por el registro fotográfico.
 
-(Todos los datos pendientes van en camino)
+{{< gallery >}}
+    {{< foto src="/images/Vol II/07.jpg" alt="" >}}
+    {{< foto src="/images/Vol II/Coautores RRSS.jpg" alt="">}}
+    {{< foto src="/images/Vol II/23.jpg" alt="">}}
+    {{< foto src="/images/Vol II/15.jpg" alt="">}}
+    {{< foto src="/images/Vol II/14 (1).jpg" alt="">}}
+    {{< foto src="/images/Vol II/11.jpg" alt="">}}
+    {{< foto src="/images/Vol II/01.jpg" alt="">}}
+    {{< foto src="/images/Vol II/05.jpg" alt="">}}
+    {{< foto src="/images/Vol II/18.jpg" alt="">}}
+    {{< foto src="/images/Vol II/07 (1).jpg" alt="">}}
+    {{< foto src="/images/Vol II/02.jpg" alt="">}}
+    {{< foto src="/images/Vol II/03.jpg" alt="">}}
+{{< /gallery >}}

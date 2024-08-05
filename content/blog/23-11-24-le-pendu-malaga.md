@@ -1,0 +1,9 @@
++++
+title = 'Le pendu (Alhelí Málaga)'
+author = 'Alhelí Málaga'
+date = 2023-11-24
+tags = ['Creación literaria']
+slug = 'le-pendu-alheli-malaga'
++++
+
+Dudas. Muchas dudas. Mucho buscarse en los reflejos. ¿Esto era? ¿De esto se trataba? Otro check a otro ítem de la lista, otra postulación, otro rechazo. El reflejo en el vidrio del armario devuelve una figura encogida, a contraluz no puedes verlo pero bien lo sabes, la papada en caída, las arrugas. Muchas, demasiadas, de verdad demasidas canas. Serán las toxinas de la comida procesada o simplemente el tiempo, el tiempo que sacude las cortinas, besa las hojas de los bonsáis casi marchitos. Volteas hacia la ventana. Hay un hombre encaramado sobre el techo vecino, debe estar arreglando alguna teja. Tiene guantes de latex y gafas de seguridad, pero nada le protege la nuca del sol inclemente. Su perfil resalta, pues tiene detrás el cielo claro, sin nubes. El azul tiene un tono petróleo, lo buscas en Wikipedia, revisas las muestras de colores para dar con la descripción exacta. El hombre levanta una espátula, googleas "herramientas de albañil" y comparas imágenes para dar un nombre adecuado a lo que viste. No tiene ningún arnés, ningún casco, pasea despreocupado, a diez metros de la acera. No quieres verlo, no quieres que suceda. Quedarse atrapado, cabeza abajo, un pie apuntando al cielo, del que no vendrá ningún rescate. Googleas "figuras de tarot" para encontrar su imagen y su nombre que alguna vez leíste en una novela de inicios del siglo pasado, siglo en el que naciste, siglo al que no hay regreso, porque nunca se regresa a la infancia, ni a nada. Colgado entre el suelo y cielo, petrificado, atravesando el aire como bloque de cemento. Colgado pero tranquilo, colgado pero contento, aspirando el polen, sabiendo que ya no podrá estornudar.

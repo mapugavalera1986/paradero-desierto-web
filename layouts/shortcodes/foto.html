@@ -1,0 +1,3 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+<img class="four-grid-cells" src="{{ $src | absURL }}" alt="{{ $alt }}">
