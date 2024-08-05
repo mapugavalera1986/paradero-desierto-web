@@ -11,7 +11,8 @@ copyright = 'paradero desierto'
 # Con esto, podrás tener enlaces ordenados por fecha y mes
 
 [permalinks]
-    posts = "/:year/:month/:day/:slug/"
+    blog = "/:year/:month/:day/:slug/"
+	agenda = "/:year/:month/:day/:slug/"
 
 # Siguiendo la disposición de la plantilla, solo usaremos etiquetas
 [taxonomies]

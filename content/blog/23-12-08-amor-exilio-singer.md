@@ -1,8 +1,8 @@
 +++
-title = Amor y exilio (Isaac B. Singer; fragmento)'
+title = 'Amor y exilio (Isaac B. Singer; fragmento)'
 author = 'Isaac B. Singer'
 date = 2023-12-08
-tags = ['Literatura']
+tags = ['literatura']
 slug = 'amor-exilio-fragmento'
 +++
 

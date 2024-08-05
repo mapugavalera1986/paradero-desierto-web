@@ -3,7 +3,7 @@ title = '¿Por qué es importante crear belleza en todo? (Alan Moore)'
 shortTitle = '¿Por qué es importante...? (Alan Moore)'
 author = 'Alan Moore'
 date = 2024-05-30
-tags = ['Literatura']
+tags = ['análisis']
 slug = 'belleza-alan-moore'
 images = ['/images/psique-especial.jpg']
 +++

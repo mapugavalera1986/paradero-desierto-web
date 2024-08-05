@@ -1,8 +1,8 @@
 +++
 title = 'Cervecería (Walter Benjamin)'
 author = 'Walter Benjamin'
-date = 2024-06-21
-tags = ['Clásicos']
+date = 2024-05-01
+tags = ['literatura']
 slug = 'cerveceria-benjamin'
 +++
 

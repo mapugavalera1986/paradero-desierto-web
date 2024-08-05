@@ -16,4 +16,4 @@ Compartiremos poesía social, amorosa, de temas peruanos... En un ambiente relaj
 
 Enlace al Meet: [bit.ly/cppya](http://bit.ly/cppya)
 
-![Aquí va un Flyer con la información del taller y sus participantes](/images/lectura-abierta-1.png)
+![Aquí va un Flyer con la información del taller y sus participantes; como fondo, tiene un cielo azul despejado y, muy abajo un edificio en construcción](/images/lectura-abierta-1.png)

@@ -1,8 +1,8 @@
 +++
 title = 'Sinceridad y poesía'
 author = 'Miguel Gil Castro'
-date = 2023-09-11
-tags = ['Creación literaria']
+date = 2023-11-09
+tags = ['escritos']
 slug = 'sinceridad-poesia-gil-castro'
 +++
 

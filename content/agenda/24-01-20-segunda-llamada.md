@@ -21,16 +21,16 @@ Escríbenos si deseas tener un ejemplar de nuestro compilado en papel - todavía
 Agradecemos a Katherine Yábar por el registro fotográfico.
 
 {{< gallery >}}
-    {{< foto src="/images/Vol II/07.jpg" alt="" >}}
-    {{< foto src="/images/Vol II/Coautores RRSS.jpg" alt="">}}
-    {{< foto src="/images/Vol II/23.jpg" alt="">}}
-    {{< foto src="/images/Vol II/15.jpg" alt="">}}
-    {{< foto src="/images/Vol II/14 (1).jpg" alt="">}}
-    {{< foto src="/images/Vol II/11.jpg" alt="">}}
-    {{< foto src="/images/Vol II/01.jpg" alt="">}}
-    {{< foto src="/images/Vol II/05.jpg" alt="">}}
-    {{< foto src="/images/Vol II/18.jpg" alt="">}}
-    {{< foto src="/images/Vol II/07 (1).jpg" alt="">}}
-    {{< foto src="/images/Vol II/02.jpg" alt="">}}
-    {{< foto src="/images/Vol II/03.jpg" alt="">}}
+    {{< foto src="/images/Vol II/07.jpg" alt="Gloria Alvitres está sentada en las gradas de la Casa de la Literatura sosteniendo el libro 'Paradero desierto. Segunda llamada', sus ojos están en primer plano" >}}
+    {{< foto src="/images/Vol II/Coautores RRSS.jpg" alt="Miguel Gil Castro, Giovanna Torres, Alhelí Málaga, Gloria Alvitres y Villanueva Lorenzo posan en conjunto con su segundo libro colectivo">}}
+    {{< foto src="/images/Vol II/23.jpg" alt="Los asistentes a la celebración brindan en la terraza de la Casa de la Literatura, se ve brazos alzados con copas">}}
+    {{< foto src="/images/Vol II/15.jpg" alt="Giovanna Torres está revisando el 'Paradero desierto. Segunda llamada' en los exteriores de la Casa de la Literatura">}}
+    {{< foto src="/images/Vol II/14 (1).jpg" alt="Giovanna Torres posa con la persona que ganó un ejemplar del libro en el marco de un sorteo express">}}
+    {{< foto src="/images/Vol II/11.jpg" alt="Los asistentes a la presentación aplauden y observan con atención la mesa de presentación">}}
+    {{< foto src="/images/Vol II/01.jpg" alt="Alhelí Málaga posa con el libro, con una sonrisa graciosa">}}
+    {{< foto src="/images/Vol II/05.jpg" alt="Villanueva Lorenzo lee algunos poemas como parte de la mesa de presentación, a su izquierda está Miguel Gil, y a la derecha Gloria Alvitres">}}
+    {{< foto src="/images/Vol II/18.jpg" alt="Fiorella Terrazas abraza a Gloria Alvitres">}}
+    {{< foto src="/images/Vol II/07 (1).jpg" alt="Un videopoema de Muki Sabogal es proyectado en la pared detrás de la mesa de presentación, se observa el rostro de Muki">}}
+    {{< foto src="/images/Vol II/02.jpg" alt="Alhelí Málaga, Miguel Gil y Villanueva Lorenzo posan sonriendo con el libro, Miguel mueve sus brazos como una ola">}}
+    {{< foto src="/images/Vol II/03.jpg" alt="Miguel Gil está leyendo sus poemas como parte de la mesa de presentación con una ligera sonrisa, a su lado derecho está Villanueva Lorenzo, muy concentrado">}}
 {{< /gallery >}}

@@ -2,7 +2,7 @@
 title = 'Le pendu (Alhelí Málaga)'
 author = 'Alhelí Málaga'
 date = 2023-11-24
-tags = ['Creación literaria']
+tags = ['escritos']
 slug = 'le-pendu-alheli-malaga'
 +++
 

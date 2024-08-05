@@ -1,8 +1,8 @@
 +++
 title = 'El casino (Villanueva Lorenzo)'
 author = 'Villanueva Lorenzo'
-date = 2023-11-29
-tags = ['Creación literaria']
+date = 2024-04-09
+tags = ['escritos']
 slug = 'el-casino-villanueva-lorenzo'
 +++
 
