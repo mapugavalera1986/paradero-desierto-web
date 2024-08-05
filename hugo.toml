@@ -31,8 +31,8 @@ copyright = 'paradero desierto'
 	readTime = false
 	
 	# Detalles para SEO y para página de inicio
-	description = 'poesía peruana'
-	homeSubtitle = 'poesía peruana'
+	description = 'colectivo peruano de poesía contemporánea'
+	homeSubtitle = 'colectivo peruano de poesía contemporánea'
 	
 	homeSubtitlePrinter = false
 	scrollToTop = true 
