@@ -1,5 +1,5 @@
 +++
-title = 'Blog de paradero desierto'
+title = 'Blog'
 description = 'Reseñas, comentarios, revelaciones, profecías'
 +++
 

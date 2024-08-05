@@ -1,6 +1,6 @@
 +++
 title = 'Lecciones de poesía con MLB. Pt. 1'
-author = 'El colectivo'
+author = 'Alhelí Málaga'
 date = 2023-08-30
 tags = ['literatura','escritura']
 slug = 'lecciones-poesia-mlb-pt1'
