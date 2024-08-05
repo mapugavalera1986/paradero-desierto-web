@@ -8,25 +8,13 @@
             "origen": "Lima, 2024",
             "info": [
                 {
-                    "txt": "Villanueva Lorenzo"
+                    "txt": "Este conjunto acoge la diversidad de proyectos poéticos y usos de lenguajes de sus autores, es así que, más que un programa político o narrativo, los hilos conductores del conjunto son el interaprendizaje, la lectura y corrección constantes."
                 },
                 {
-                    "txt": "Muki Sabogal"
+                    "txt": "Tenemos, pues, tanto textos crudos, cuasi futuristas, de Villanueva Lorenzo, como la sensualidad y cotidianidad pop de la poesía de Muki Sabogal. Por otro lado, tenemos operaciones de reflexión sobre el lenguaje y juego con el espacio de la página en la obra de Miguel Gil Castro, así como paisajes de realidad limeña desde una autoría situada en la poesía de Gloria Alvitres."
                 },
                 {
-                    "txt": "Miguel Gil Castro"
-                },
-                {
-                    "txt": "Gloria Alvitres"
-                },
-                {
-                    "txt": "Giovanna Torres"
-                },
-                {
-                    "txt": "Dagoberto Benites"
-                },
-                {
-                    "txt": "Alhelí Málaga"
+                    "txt": "Giovanna Torres coloca bajo un microscopio las relaciones románticas y familiares, mientras Dagoberto Benites construye imágenes inverosímiles que obligan al lector a dejarse llevar por el ritmo del poema. Finalmente, Alhelí Málaga propone una deconstrucción del mito del héreo en la serie de poemas *El llamado*."
                 }
             ]
         },
@@ -37,10 +25,10 @@
             "origen": "10 de diciembre del 2023",
             "info": [
                 {
-                    "txt": "Guía de lectura con 32 textos creados por 27 autores."
+                    "txt": "¿De qué tradición bebemos? ¿qué futuro imaginamos? Los poetas Gloria Alvitres, Ivonne Bernuy, Miguel Gil Castro, Villanueva Lorenzo, Alhelí Málaga, Muki Sabogal y Giovanna Torres comparten poesía propia y ajena intentando responder a estas preguntas."
                 },
                 {
-                    "txt": "Los textos fueron seleccionados por Gloria Alvitres, Ivonne Bernuy, Miguel Gil Castro, Villanueva Lorenzo, Alhelí Málaga, Muki Sabogal y Giovanna Torres."
+                    "txt": "Se trata de 32 textos creados por 27 autores y agrupados en tres secciones, de acuerdo a las preguntas orientadoras de la sesión: *Me lo contaron ayer* (tradición), *Nos fue dada esa caída* (futuro) y *Yo creo que al final todo es luz* (textos varios). Los títulos de las secciones corresponden a versos de Rafael de León, Claudia Masin y Robin Myers, incluidos en el conjunto."
                 }
             ]
         },
@@ -51,7 +39,10 @@
             "origen": "7 de mayo del 2023",
             "info": [
                 {
-                    "txt": "Guía de lectura con 44 poemas de 29 autores. Los textos fueron seleccionados por Giovanna Torres, Miguel Gil Castro, Ivonne Bernuy, Gabriel Espinoza, Dagoberto Benites, Alhelí Málaga y Villanueva Lorenzo."
+                    "txt": "Los materiales de la primera *Lectura Abierta* incluyen 44 textos poéticos creados por 28 autores y agrupados en cuatro secciones: *Cuerpo enamorado* (poesía amorosa), *Abatido entre Lima y la Herradura* (temas peruanos), *Piedra, palos, agua de rochabús* (poesía social), y *Uso una máscara de carne y hueso* (textos varios)."
+                },
+                {
+                    "txt": "Los títulos de las secciones corresponden a versos de Jorge Eduardo Eielson, Luis Hernández y Dalmacia Ruiz Rosas, incluidos en el conjunto. Los textos fueron seleccionados por Giovanna Torres, Miguel Gil Castro, Ivonne Bernuy, Gabriel Espinoza, Dagoberto Benites, Alhelí Málaga y Villanueva Lorenzo."
                 }
             ]
         },
@@ -62,19 +53,13 @@
             "origen": "Lima, 2022",
             "info": [
                 {
-                    "txt": "Alhelí Málaga"
+                    "txt": "Se trata del primer conjunto poético del colectivo peruano *Paradero Desierto*."
                 },
                 {
-                    "txt": "Dagoberto Benites"
+                    "txt": "Dice Juliane Ángeles: \"[Estos] poemas versan sobre lo onírico, la complejidad de la naturaleza humana, la identificación con lo que no es humano, la conexión con el entorno y lo cotidiano, y la escritura como vehículo que sostiene la propia existencia.\""
                 },
                 {
-                    "txt": "Giovanna Torres"
-                },
-                {
-                    "txt": "Miguel Gil Castro"
-                },
-                {
-                    "txt": "Villanueva Lorenzo"
+                    "txt": "Las exploraciones de estos cinco poetas dibujan paisajes de catástrofe, aunque atravesados de belleza. La labor poética termina funcionado como herramienta de redención: \"Te protegerá en el fondo tuyo / La palabra, / Tu mágico animal\" (Villanueva Lorenzo)."
                 }
             ]
         },
@@ -82,13 +67,13 @@
             "nombre": "Cinco días en Huarochirí",
             "foto": "images/0 publicacionesb/GilCastroCinco.png",
             "enlace": "https://cultura.petroperu.com.pe/biblioteca-cope/cinco-dias-en-huarochiri/",
-            "origen": "Lima, 2022",
+            "origen": "Lima, Ediciones Copé, 2022",
             "info": [
                 {
-                    "txt": "Miguel Gil Castro"
+                    "txt": "\"Despliega un recorrido que va de la sierra al litoral limeño enlazando la situación actual de la geografía con la cosmovisión andina de modo tal que reactualiza el manuscrito en diálogo con la cultura occidental.\" —Jurado Calificador de la XX Bienal de Poesía *Premio Copé 2021*"
                 },
                 {
-                    "txt": "Ediciones Copé: Lima, 2022"
+                    "txt": "\"En los odres del lenguaje poético contemporáneo, macera admirablemente los relatos míticos del manuscrito de Huarochirí (el texto quechua más importante), insertando significativos contrastes con las fuentes de la cosmovisión 'occidental' (bíblicas y griegas).\" —Ricardo González Vigil, *Caretas*"
                 }
             ]
         },
@@ -97,9 +82,17 @@
             "foto": "images/0 publicacionesb/EspejoAlhel.png",
             "enlace": "pdf/REG. Érase un espejo. Alhelí Málaga..pdf",
             "origen": "Kraków-Lima, 2022",
-            "info": [{
-                "txt": "Alhelí Málaga"
-            }]
+            "info": [
+                {
+                    "txt": "*Érase un espejo* es el primer libro poético independiente de Alhelí Málaga."
+                },
+                {
+                    "txt": "Despedida de la ciudad de origen, despedida de los amores del pasado."
+                },
+                {
+                    "txt": "Sueños, sensaciones, juegos de lenguaje. Ubicarse entre el horror y el regocijo, en un mundo que es parte fantasía y parte pesadilla."
+                }
+            ]
         }
     ]
 }
