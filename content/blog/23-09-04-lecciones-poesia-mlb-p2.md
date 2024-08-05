@@ -2,7 +2,7 @@
 title = 'Lecciones de poesía con MLB. Pt. 2'
 author = 'El colectivo'
 date = 2023-09-04
-tags = ['literatura,escritura']
+tags = ['literatura','escritura']
 slug = 'lecciones-poesia-mlb-pt2'
 +++
 

@@ -22,4 +22,4 @@ Puedes hacerte esta sencilla pregunta: ¿quiero una comida bella o aburrida? ¿U
 
 En: *Diseña / Por qué la belleza es esencial para todo*. Ediciones Koan: 2021
 
-Imagen: Psique reanimada por el beso del amor, Antonio Canova
+Imagen de fondo: Psique reanimada por el beso del amor, Antonio Canova
