@@ -1,5 +1,5 @@
 +++
-title = 'Sinceridad y poesía'
+title = 'Sinceridad y poesía (Miguel Gil Castro)'
 author = 'Miguel Gil Castro'
 date = 2023-11-09
 tags = ['escritos']
